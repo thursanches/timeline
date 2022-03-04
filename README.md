@@ -1,4 +1,4 @@
-### Hi!👋 I'm Arthur Sanches
+### Hii Everyone!👋 I'm Arthur Sanches
 ### Welcome to my Github !!
 
 - ⭐ I’m currently learning ReactJS; JavaScript; HTML5; CSS3; Git
