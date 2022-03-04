@@ -1,8 +1,8 @@
 ### Hii Everyone!👋 I'm Arthur Sanches
-### Welcome to my Github !!
+### Welcome to my page !! 🔥 With faith and persistence, let's go.  
 
-- ⭐ I’m currently learning ReactJS; JavaScript; HTML5; CSS3; Git
-- 😄 Pronouns: He / Him
+- 💻 I’m currently, studying front-end Techs. 
+- 🌱 I'm a member of ECOS! https://ecossocioambiental.org.br/
 
 <div align="center">
   <a href="https://github.com/thursanches">
