@@ -1,7 +1,7 @@
-### Hii Everyone!👋 I'm Arthur Sanches
+### Hi Everyone!👋 I'm Arthur Sanches
 ### Welcome to my page !! 🔥 With faith and persistence, let's go.  
 
-- 💻 I’m currently, studying front-end Techs. 
+- 💻 I’m currently, studying web programming. 
 - 🌱 I'm a member of ECOS! https://ecossocioambiental.org.br/
 
 <div align="center">
