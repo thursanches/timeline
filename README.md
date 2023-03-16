@@ -1,4 +1,4 @@
-### Hi, welcome!👋 I'm Arthur Sanches
+### Hi, welcome!👋
 
 - 💻 I’m currently a software developer
 - 🌱 I'm a member of ECOS:https://ecossocioambiental.org.br/
