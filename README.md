@@ -1,8 +1,7 @@
-### Hi Everyone!👋 I'm Arthur Sanches
-### Welcome to my page !! 🔥 With faith and persistence, let's go.  
+### Hi, welcome!👋 I'm Arthur Sanches
 
-- 💻 I’m currently, studying Bachelor Degree and Rocketseat Ignite. 
-- 🌱 I'm a member of ECOS! https://ecossocioambiental.org.br/
+- 💻 I’m currently a software developer
+- 🌱 I'm a member of ECOS:https://ecossocioambiental.org.br/
 
 <div align="center">
   <a href="https://github.com/thursanches">
