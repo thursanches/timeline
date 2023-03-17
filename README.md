@@ -1,7 +1,7 @@
 ### Hi, welcome!👋
 
 - 💻 I’m currently a software developer
-- 🌱 I'm a member of ECOS:https://ecossocioambiental.org.br/
+- 🌱 I'm a member of ECOS: https://ecossocioambiental.org.br/
 
 <div align="center">
   <a href="https://github.com/thursanches">
