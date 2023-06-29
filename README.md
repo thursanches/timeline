@@ -1,9 +1,9 @@
 Hi, i'm Arthur👋
 
-- 💻 Currently a software developer.
+- 🚀 Currently a software developer.
 - 🌱 Member of ECOS: https://ecossocioambiental.org.br/
 - ☁️ Cloud Student at Escola da Nuvem: https://escoladanuvem.org
-- BS in Computer Science. 
+- 💻 BS in Computer Science. 
 <div align="center">
   <a href="https://github.com/thursanches">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thursanches&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
