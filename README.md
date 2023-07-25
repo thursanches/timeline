@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Arthur👋🏻</h1>
  
 - 🚀 Currently a software developer.
-- 🌱 Member of ECOS: https://ecossocioambiental.org.br/
+- 🌱 Ex-Member of ECOS: https://ecossocioambiental.org.br/
 - ☁️ AWS Student at Escola da Nuvem: https://escoladanuvem.org
 - 💻 BS in Computer Science.
 - ⚡ Creating and learning things.
