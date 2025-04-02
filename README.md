@@ -1,2 +1,1 @@
-<h1>Hey, Welcome! </h1>
-<li>Currently, a software developer.</li>
+<h3>Hey, Welcome! I'm a software developer.</h3>
